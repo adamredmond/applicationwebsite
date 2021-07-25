@@ -7,6 +7,7 @@ import Footer from '../Footer';
 function Home() {
   return (
     <>
+    <a>hello</a>
       <HeroSection />
       <Cards />
       <Footer />
